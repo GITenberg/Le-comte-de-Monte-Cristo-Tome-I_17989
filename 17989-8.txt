@@ -11,7 +11,7 @@ Title: Le comte de Monte-Cristo, Tome I
 Author: Alexandre Dumas
 
 Release Date: March 15, 2006 [EBook #17989]
-[This file last updated: May 13, 2011]
+[Last updated: January 20, 2018]
 
 Language: French
 
@@ -6620,7 +6620,7 @@ fit représenter seulement leurs numéros. Cet horrible hôtel garni se
 composait de cinquante chambres; leurs habitants furent appelés du
 numéro de la chambre qu'ils occupaient, et le malheureux jeune homme
 cessa de s'appeler de son prénom d'Edmond ou de son nom de Dantès, il
-s'appela le n 34.
+s'appela le nº 34.
 
 
 
@@ -11873,7 +11873,7 @@ si personne ne l'épiait, mais, en réalité, parce qu'il avait besoin
 d'air, parce qu'il sentait qu'il allait s'évanouir.
 
 L'île était déserte, et le soleil à son zénith semblait la couvrir de
-son oeil de feu; au loin, de petites barques de pécheurs ouvraient leurs
+son oeil de feu; au loin, de petites barques de pêcheurs ouvraient leurs
 ailes sur la mer d'un bleu de saphir.
 
 Dantès n'avait encore rien pris: mais c'était bien long de manger dans
@@ -12303,7 +12303,7 @@ son aise, et quand il se retira ils l'accompagnèrent, en lui disant
 qu'il pouvait revenir quand il voudrait et que leur pauvre maison lui
 serait toujours hospitalière.
 
-En passant à l'étage au-dessous. Edmond s'arrêta devant une autre porte
+En passant à l'étage au-dessous, Edmond s'arrêta devant une autre porte
 et demanda si c'était toujours le tailleur Caderousse qui demeurait là.
 Mais le concierge lui répondit que l'homme dont il parlait avait fait
 de mauvaises affaires et tenait maintenant une petite auberge sur la
@@ -12417,7 +12417,7 @@ communes parmi les populations voisines des étangs d'Aigues-mortes et
 des marais de la Camargue. Elle se tenait donc presque toujours assise
 et grelottante au fond de sa chambre située au premier, soit étendue
 dans un fauteuil, soit appuyée contre son lit, tandis que son mari
-montait à la porte sa faction habituelle: faction qu'à prolongeait
+montait à la porte sa faction habituelle: faction qu'il prolongeait
 d'autant plus volontiers que chaque fois qu'il se retrouvait avec son
 aigre moitié, celle-ci le poursuivait de ses plaintes éternelles contre
 le sort, plaintes auxquelles son mari ne répondait d'habitude que par
@@ -14094,7 +14094,7 @@ Morrel; mais la caisse était demeurée complètement vide. Le crédit,
 effrayé par le bruit qui courait, s'était retiré avec son égoïsme
 habituel; et pour faire face aux cent mille francs à rembourser le 15 du
 présent mois à M. de Boville, et aux autres cent mille francs qui
-allaient échoir le 15 du mois suivant. M. Morrel n'avait en réalité que
+allaient échoir le 15 du mois suivant, M. Morrel n'avait en réalité que
 l'espérance du retour du _Pharaon_, dont un bâtiment qui avait levé
 l'ancre en même temps que lui, et qui était arrivé à bon port, avait
 appris le départ.
@@ -14727,7 +14727,7 @@ présentées à la caisse avec une scrupuleuse rigueur, et, grâce au délai
 accordé par l'Anglais, furent payées par Coclès à bureau ouvert. Coclès
 continua donc de demeurer dans sa tranquillité fatidique. M. Morrel seul
 vit avec terreur que s'il avait eu à rembourser, le 15 les cinquante
-mille francs de de Boville, et, le 30, les trente-deux mille cinq cents
+mille francs M. de Boville, et, le 30, les trente-deux mille cinq cents
 francs de traites pour lesquelles, ainsi que pour la créance de
 l'inspecteur des prisons, il avait un délai, il était dès ce mois-là un
 homme perdu.
